@@ -1,10 +1,5 @@
 # 👋 Hey
-
-I'm Dan, an Israeli software developer based in Bangkok, Thailand.
-I have a strong background in E-commerce, with experience as both an E-commerce developer and an owner of stores.
-
 Learn more about me on my website: [danarbib.com](https://danarbib.com/)
-
 My repositories are currently set to private. If you're interested in any of the codes or projects, feel free to reach out to me.
 
 **Contact Information:**
