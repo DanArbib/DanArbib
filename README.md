@@ -1,6 +1,4 @@
 # 👋 Hey
-Learn more about me on my website: [danarbib.com](https://danarbib.com/)
-
 My repositories are currently set to private. If you're interested in any of the codes or projects, feel free to reach out to me.
 
 **Contact Information:**
