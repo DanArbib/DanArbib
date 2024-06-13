@@ -4,7 +4,7 @@ My repositories are currently set to private. If you're interested in any of the
 **Contact Information:**
 - 📧 Email: [arbibdan@gmail.com](mailto:arbibdan@gmail.com)
 - 💬 LinkedIn: [linkedin.com/in/dan-arbib](https://www.linkedin.com/in/dan-arbib/)
-- 🌐 Website: [danarbib.com/contact](https://danarbib.com/contact)
+- 🌐 Website: [danarbib.com](https://danarbib.com)
 
 
 <!---
